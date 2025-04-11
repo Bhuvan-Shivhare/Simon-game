@@ -4,7 +4,7 @@ This project is a fun memory challenge where players must repeat increasingly lo
 Live Demo
 
   
-[Live Demo Link](https://yourusername.github.io/simon-game/)  
+[Live Demo Link](https://bhuvan-shivhare.github.io/Simon-game/) 
 
 
 ## 🎮 How to Play
