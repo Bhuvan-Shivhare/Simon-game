@@ -1,12 +1,6 @@
 # Simon Game
 This project is a fun memory challenge where players must repeat increasingly long sequences of colors and sounds.
 
-Live Demo
-
-  
-[Live Demo Link](https://bhuvan-shivhare.github.io/Simon-game/) 
-
-
 ## 🎮 How to Play
 - **Start the Game:** Click the "Start" button.
 - **Watch the Sequence:** The game will display a sequence of colors.
